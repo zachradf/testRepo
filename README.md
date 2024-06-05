@@ -1,6 +1,6 @@
-<p>This is an example document.</p>
-<p>It i<strong>ncludes m</strong>ultiple paragraphs, headers, and styles. test</p>
-<h1>Header 1 test</h1>
+<h3>This is an <span style="font-family: Verdana;">example</span> <span style="color: rgb(209,213,216);">document</span>.</h3>
+<p>It i<strong>ncludes m</strong>ultiple <span style="font-family: Impact;">paragraphs</span>, headers, and styles. test</p>
+<h1>Header 1 <span style="color: rgb(147,101,184);">test</span></h1>
 <h2>Header 2</h2>
 <ul>
 <li>Bulleted list item 1</li>
